@@ -1,16 +1,15 @@
 # flutter_test_app
 
-A new Flutter project.
+First complete flutter project by me.
 
-## Getting Started
+## What is?
 
-This project is a starting point for a Flutter application.
+Is an updated version to Flutter 2 of solutions of Free Flutter Course on Udacity.
 
-A few resources to get you started if this is your first Flutter project:
+## What have been changed?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Some syntax rule and implementations (some sort of lists, items, etc...)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kind of purposes of this project?
+
+Learn, nothing else.
